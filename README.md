@@ -1,0 +1,3 @@
+# Born2BeRoot
+4th project of the 42 school program.
+Born2BeRoot consists to configure a virtual machine with a Debian ISO, manually choosing virtual space, managing users, passwords, sudo configuration, firewall, ssh, ... 
